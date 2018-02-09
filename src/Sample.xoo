@@ -1,6 +1,7 @@
 public class Sample1 {
 
   // xoo
+  // xoo
   private int i;
 
   private Sample1() {
