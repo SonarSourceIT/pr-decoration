@@ -10,3 +10,6 @@ public class Sample1 {
     System.out.println("hello" + " xoo");
   }
 }
+// covered in master
+// covered in master
+// not covered in master
